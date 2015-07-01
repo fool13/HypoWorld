@@ -1,5 +1,5 @@
 07H.BILLY
-	TS	HU	Wind	Press	Lat	Lon	
+Date	TS	HU	Wind	Press	Lat	Lon	
 19/06	26	14	20	1010	8.5	0.7	1
 19/18	28	15	20	1008	8.8	0.2	2
 20/06	31	16	25	1007	9.3	-0.6	3
