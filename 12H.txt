@@ -1,3 +1,4 @@
-12G.TWELVE-G
+12H.TWELVE-H
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 26/09   12      00      30      1005    26.6    158.0   1
+26/15   09      00      30      1005    26.7    158.0   1A
