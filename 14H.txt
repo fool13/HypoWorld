@@ -7,11 +7,3 @@ Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 +72     60    	40    	100    	960    	 15.3    86.8      -
 +96     80    	50    	110    	946    	 17.3    87.4      -
 +120    99    	62    	130    	930    	 18.7    89.2      -
-
-LO = Low Pressure Icon
-SD = Subtropical Depression Icon
-SS = Subtropical Storm Icon
-BE = Becoming Extratropical
-EX = Extratropical Icon
-+12, +24, +36, +60, +72 = Forecast Hours
-1, 1A, 2, 2A, 3, 3A, 4, 4A, 5, 5A = Advisory Number including Amendment
