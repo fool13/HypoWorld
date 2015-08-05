@@ -1,5 +1,5 @@
 /// REAM [RAEGA ENVIRONMENTAL AND ATMOSPHERICAL MODEL] ///
-COLOR_ #FF0000
+COLOR_ #ffff64
 Date      Lat      Long
 :> 01X.GISPASKI
 +12      -7.1     -135.3
