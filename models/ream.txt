@@ -1,5 +1,5 @@
 /// REAM [RAEGA ENVIRONMENTAL AND ATMOSPHERICAL MODEL] ///
-:> #FFFF64
+:> darkblue
 Date      Lat      Long
 :> 94G.INVEST
 +12       4.7     -129.8
