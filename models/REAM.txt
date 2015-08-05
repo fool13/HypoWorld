@@ -1,4 +1,5 @@
 /// REAM [RAEGA ENVIRONMENTAL AND ATMOSPHERICAL MODEL] ///
+HEX_ #FF0000
     Date      Lat      Long
 [A] 01X.GISPASKI
     +12      -7.1     -135.3
