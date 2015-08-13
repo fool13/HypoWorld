@@ -24,10 +24,3 @@ Date	TS	HU	Wind	Press	Lat	Lon
 19/18	15	1	25	1008	14.7	106.7	11A
 20/00	11	1	25	1009	14.9	106.2	12
 20/06	5	1	20	1010	15.3	106.3	12A
-+12	x	x	x	x	x	x	
-+24	x	x	x	x	x	x	
-+36	x	x	x	x	x	x	
-+48	x	x	x	x	x	x	
-+72	x	x	x	x	x	x	
-+96	x	x	x	x	x	x	
-+120	x	x	x	x	x	x	
