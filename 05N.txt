@@ -1,4 +1,4 @@
-09H.EDOUARD
+05N.EDOUARD
 Date	TS	HU	Wind	Press	  Lat	  Lon	
 13/12	10	05	20  	1007	  11.3  72.7	1
 14/18	35	10	25  	1005	  11.8  73.5	1A
