@@ -1,4 +1,4 @@
-13H.KALAIT-DAVIS
+06H.KALAIT-DAVIS
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 04/15   99      99      35      1005    11.7     5.7    1
 04/21   99      99      35      1005    10.3     4.5    1A
