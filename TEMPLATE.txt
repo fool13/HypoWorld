@@ -24,3 +24,7 @@ BE = Becoming Extratropical
 EX = Extratropical Icon
 +12, +24, +36, +60, +72 = Forecast Hours
 1, 1A, 2, 2A, 3, 3A, 4, 4A, 5, 5A = Advisory Number including Amendment
+
+TS and HU columns represent the percentage of the chance of the system becoming a TS or HU.
+Example: 37 under the TS column means a 37% chance of the system becoming a Tropical Storm.
+Example: 78 under the HU column means a 78% chance of the system becoming a Hurricane.
