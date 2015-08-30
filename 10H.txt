@@ -1,4 +1,4 @@
-17G.SEVENTEEN-G
+10H.SEVENTEEN-G
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 20/09   05      00      35      1005    29.2     -3.0    1
 20/15   03      00      30      1008    30.3     -2.5    1A
