@@ -1,4 +1,4 @@
-15G.ERICKSON
+08H.ERICKSON
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 18/21   99      80      35      1003    20.3    -12.3    1
 19/03   99      74      45      999     20.4    -13.3    1A
