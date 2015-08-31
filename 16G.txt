@@ -1,4 +1,4 @@
-09H.FAITH
+16G.FAITH
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 19/03   99      99      35      1002    11.2     -0.1    1
 19/09   99      99      45      998     10.8     -1.2    1A
