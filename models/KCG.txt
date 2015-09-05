@@ -1,5 +1,5 @@
 /// KCG - KILMARNOCK CYCLONE GENESIS MODEL ///
-:> #8072FE
+:> #362383
 Date      Lat      Long
 :> 01K.CHRIS
 +12       41.5    -78.0
