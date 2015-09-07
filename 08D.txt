@@ -1,4 +1,4 @@
-08D.EIGHT-D
+08D.GLORIA
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 07/00   65      30      30      1008     20.2    172.4   3A
 07/06   97      40      35      1006     20.3    171.9   4 
