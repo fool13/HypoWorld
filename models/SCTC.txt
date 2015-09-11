@@ -1,11 +1,4 @@
 /// SCTC - STEEL CITY TROPICAL CYCLONE MODEL ///
 :> #00ffff
 Date      Lat      Long
-:> 01K.CHRIS
-+12      38.5    -80.0
-+24      38.3    -79.0
-+36      38.0    -77.5
-+48      37.0    -76.0
-+60      36.0    -74.0
-+72      36.5    -72.0
 :> END
