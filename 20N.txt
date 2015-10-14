@@ -25,4 +25,3 @@ Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 +24     X       EX      30      1003     27.6    115.7        -
 +48     X       EX      25      1004     34.8    114.4        -
 +72     X       EX      15      1007     42.9    112.5        -
-
