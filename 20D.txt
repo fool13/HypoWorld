@@ -1,4 +1,4 @@
-20D.TWENTY
+20D.SARAH
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 23/12   15      LO      20      1015     22.7    165.3  1
 24/00   30      LO      25      1014     22.9    164.9  2
