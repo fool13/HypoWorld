@@ -1,0 +1,3 @@
+25N.TWENTY-FIVE
+Date  	TS    	HU    	Wind    Press	   Lat	  Long
+28/12   90      00      35      999      13.6   100.0    1
