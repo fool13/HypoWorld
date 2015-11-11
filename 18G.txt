@@ -1,4 +1,4 @@
-19G.GERRY
+18G.GERRY
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 22/00   02      00      35      1006     9.1     -51.4    1
 22/06   04      00      35      1005     9.1     -51.2    1A
