@@ -1,3 +1,4 @@
 90J.INVEST
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 18/18   10      LO      25      1009    -12.7    68.2  1
+19/00   10      LO      25      1008    -13.0    67.9  1A
