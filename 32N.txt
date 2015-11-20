@@ -1,0 +1,2 @@
+32N.EPSILON
+Date  	TS    	HU    	Wind    Press	    Lat	  Long
