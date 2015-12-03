@@ -1,4 +1,0 @@
-/// KCG - KILMARNOCK CYCLONE GENESIS MODEL ///
-:> #362383
-Date      Lat      Long
-:> END

@@ -1,4 +1,0 @@
-/// REA - RAEGA ENVIRONMENTAL AND ATMOSPHERICAL MODEL ///
-:> #C0C000
-Date      Lat      Long
-:> END
