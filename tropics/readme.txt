@@ -30,8 +30,6 @@ Example: 37 under the TS column means a 37% chance of the system becoming a Trop
 Example: 78 under the HU column means a 78% chance of the system becoming a Hurricane.
 
 
-
-
 ## NORTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------------------------
 RSMC Orchard City / RSMC Berwyn (Right from 180°) :
