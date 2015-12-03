@@ -28,3 +28,36 @@ EX = Extratropical Icon
 TS and HU columns represent the percentage of the chance of the system becoming a TS or HU.
 Example: 37 under the TS column means a 37% chance of the system becoming a Tropical Storm.
 Example: 78 under the HU column means a 78% chance of the system becoming a Hurricane.
+
+
+
+
+## NORTHERN HEMISPHERE SUFFIXES ##
+------------------------------------------------------------
+RSMC Orchard City / RSMC Berwyn (Right from 180°) :
+THE NEXT [G] SUFFIX IS [99G]
+------------------------------------------------------------
+TCWC Thunder Bay / NWO Naujaat :
+THE NEXT [H] SUFFIX IS [96H]
+------------------------------------------------------------
+RSMC Alton :
+THE NEXT [N] SUFFIX IS [93N]
+------------------------------------------------------------
+RSMC Mineral City / RSMC Berwyn (Left from 180°) :
+THE NEXT [D] SUFFIX IS [99D]
+------------------------------------------------------------
+RSMC Kilmarnock :
+THE NEXT [K] SUFFIX IS [91K]
+------------------------------------------------------------
+
+
+## SOUTHERN HEMISPHERE SUFFIXES ##
+------------------------------------------------------------
+RSMC Pearce / NFMC Leimup :
+THE NEXT [X] SUFFIX IS [94X]
+------------------------------------------------------------
+RSMC Jean City / RSMC Santa Catarina :
+THE NEXT [J] SUFFIX IS [90J]
+------------------------------------------------------------
+HWMO (50°W to 50°E)
+THE NEXT [T] SUFFIX IS [90T]
