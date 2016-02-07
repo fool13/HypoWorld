@@ -52,10 +52,10 @@ THE NEXT [K] SUFFIX IS [90K]
 ## SOUTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------------------------
 RSMC Pearce / NFMC Leimup :
-THE NEXT [X] SUFFIX IS [90X]
+THE NEXT [X] SUFFIX IS [94X]
 ------------------------------------------------------------
 RSMC Jean City / RSMC Santa Catarina :
-THE NEXT [J] SUFFIX IS [90J]
+THE NEXT [J] SUFFIX IS [92Y]
 ------------------------------------------------------------
 HWMO (50°W to 50°E)
-THE NEXT [T] SUFFIX IS [93T]
+THE NEXT [T] SUFFIX IS [94T]
