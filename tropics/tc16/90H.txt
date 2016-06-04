@@ -1,3 +1,4 @@
 90H.INVEST
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 04/06   50      LO      30      1012     5.7     8.2     1
+04/12   70      LO      30      1010     5.7     7.2     2
