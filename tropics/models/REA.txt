@@ -1,5 +1,5 @@
 /// REA - RAEGA ENVIRONMENTAL AND ATMOSPHERICAL MODEL ///
-:> #C0C000
+:> #FFFF64
 Date      Lat      Long
 :> 01H.QANAAQ-ALAN
 +0        11.7    -21.3
