@@ -1,4 +1,4 @@
-01G.ONE-G
+01G.ALAN
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 13/06   20      LO      30      1010     2.8     -69.5    1
 13/12   50      LO      30      1008     2.9     -69.2    2
