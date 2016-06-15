@@ -1,4 +1,4 @@
-01D.AL
+01D.ALPHONSE
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 06/06   10      LO      25      1014    18.7    168.3     1
 06/12   10      LO      25      1013    19.7    167.9     2
