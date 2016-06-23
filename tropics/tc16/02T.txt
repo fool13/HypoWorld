@@ -1,4 +1,4 @@
-02T.BRADLEY-MARJORIE
+02T.BRADLEY-DAMICA
 Date  	TS    	HU    	Wind    Press	    Lat	  Long
 01/06   02      LO      25      1008    -4.7    -21.1    1
 01/12   04      LO      25      1008    -5.1    -22.0    1A
