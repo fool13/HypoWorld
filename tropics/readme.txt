@@ -33,19 +33,19 @@ Example: 78 under the HU column means a 78% chance of the system becoming a Hurr
 ## NORTHERN HEMISPHERE SUFFIXES ##
 ------------------------------------------------------------
 RSMC Orchard City / RSMC Berwyn (Right from 180°) :
-THE NEXT [G] SUFFIX IS [91G]
+THE NEXT [G] SUFFIX IS [92G]
 ------------------------------------------------------------
 TCWC Thunder Bay / NWO Naujaat :
-THE NEXT [H] SUFFIX IS [91H]
+THE NEXT [H] SUFFIX IS [93H]
 ------------------------------------------------------------
 RSMC Alton :
-THE NEXT [N] SUFFIX IS [90N]
+THE NEXT [N] SUFFIX IS [91N]
 ------------------------------------------------------------
 RSMC Steel City / RSMC Berwyn (Left from 180°) :
 THE NEXT [D] SUFFIX IS [91D]
 ------------------------------------------------------------
 RSMC Kilmarnock :
-THE NEXT [K] SUFFIX IS [90K]
+THE NEXT [K] SUFFIX IS [91K]
 ------------------------------------------------------------
 
 
