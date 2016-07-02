@@ -1,5 +1,4 @@
 /// SIM ///   
-01 SYSTEM ACTIVE
+00 SYSTEM ACTIVE
 Date             Name                           mph    mb      Trend    Adv     Lat       Lon     ChTS%    ChHU%
 -----------------------------------------------------------------------------------------------------------------
-20160702.0000    02G.CESAR-BEATRICE             70     977       ^      #18    30.9      -57.4      99       EX
