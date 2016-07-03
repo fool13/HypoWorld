@@ -1,4 +1,4 @@
-91N.INVEST
+02N.TWO-N
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 03/00   40      LO      25      1000     12.5   100.5    1
 03/06   60      LO      30       998     13.2   100.2    2
