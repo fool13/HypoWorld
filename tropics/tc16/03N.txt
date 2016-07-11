@@ -1,4 +1,4 @@
-03N.THREE-N
+03N.EDWIN
 Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
 10/12   20      LO      20      1002     15.1     73.5    1
 10/18   30      LO      25      1000     15.5     74.2    2
