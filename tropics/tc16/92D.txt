@@ -1,4 +1,4 @@
 92D.INVEST
-Date  	TS    	HU    	Wind    Press 	 Lat  	 Long
-00/00   00      00      00      0000     0.0     0.0     1
-00/00   00      00      00      0000     0.0     0.0     1A
+Date  	TS    	HU    	Wind    Press 	  Lat  	  Long
+15/00   20      LO      25      1012      28.5    117.5     1
+15/06   10      LO      15      1014      29.4    116.9     2
