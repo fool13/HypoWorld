@@ -1,4 +1,4 @@
-05G.FIONA
+04G.FIONA
 Date  	TS    	HU    	Wind    Press 	  Lat  	  Long
 22/06   60      LO      30      1012      4.5     -145.4    1
 22/12   80      00      35      1010      5.3     -146.4    2
