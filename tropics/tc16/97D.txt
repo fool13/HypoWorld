@@ -1,3 +1,0 @@
-97D.INVEST
-Date  	TS    	HU    	Wind    Press 	  Lat  	  Long
-29/18   40      LO      20      1000      19.9    166.4   1
