@@ -42,7 +42,7 @@ RSMC Alton :
 THE NEXT [N] SUFFIX IS [94N]
 ------------------------------------------------------------
 RSMC Steel City / RSMC Berwyn (Left from 180°) :
-THE NEXT [D] SUFFIX IS [91D]
+THE NEXT [D] SUFFIX IS [98D]
 ------------------------------------------------------------
 RSMC Kilmarnock :
 THE NEXT [K] SUFFIX IS [91K]
